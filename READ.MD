@@ -117,8 +117,8 @@ monthly).
 <b>Technology Stack:</b>
 
 + Python:
-    - numpy
     - pandas
+    - jason
     - datetime
     - pendulum
     - dateutil.relativedelta
