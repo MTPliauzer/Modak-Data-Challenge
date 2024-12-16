@@ -138,5 +138,6 @@ monthly).
 #
 
 <center> 
+<p align='center'>
 
 ![alt text](modak_live_logo.jpg)
